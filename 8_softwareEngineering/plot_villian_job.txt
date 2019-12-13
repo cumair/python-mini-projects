@@ -1,0 +1,68 @@
+assassin
+autocrat
+bandit
+bully
+burglar
+butcher
+cat burglar
+charmer
+cheat
+conjurer
+criminal
+crook
+cutthroat
+defalcator
+despot
+diabolist
+dictator
+diviner
+embezzler
+enchanter
+enchantress
+enforcer
+executioner
+exorciser
+exorcist
+fortune-teller
+heister
+highway robber
+hijacker
+illusionist
+inquisitor
+killer
+kleptomaniac
+larcener
+larcenist
+loan shark
+martinet
+miracle worker
+mobster
+mugger
+oppressor
+perpetrator
+pickpocket
+pilferer
+pirate
+plunderer
+prophet
+prowler
+purloiner
+robber
+scrounger
+seer
+siren
+slaughterer
+slave driver
+slayer
+sorcerer
+spellbinder
+spider lord
+stickup artist
+swindler
+thaumaturge
+theurgist
+thief
+trickster
+warlock
+witch doctor
+wizard
